@@ -1,6 +1,5 @@
 # Lec-1
 
-### Page 1 Explanation
 
 #### **Computer Vision Overview**
 - Purpose:
