@@ -120,10 +120,10 @@
 #### **Steps**
 1. **Calculate Distance**:
    - Use the Slide Line Distance (SLD) formula:  
-     \( \text{SLD}(P1, P2) = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \)
+     $$\text{SLD}(P1, P2) = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
    - Compute distances between G and all points.
    - Example:
-     - \( \text{SLD}(G, A) = \sqrt{(5-1)^2 + (5-6)^2} = \sqrt{17} \)
+     - $$\text{SLD}(G, A) = \sqrt{(5-1)^2 + (5-6)^2} = \sqrt{17}$$
 2. **Find the Nearest Neighbors**:
    - Sort points by distance.
    - Select the 3 nearest neighbors (k = 3).
@@ -147,8 +147,8 @@
 
 2. **Calculate Distance**:
    - Use the distance formula:  
-     \( \text{Distance}(I_1, I_2) = \sum |I_{1p} - I_{2p}| \),  
-     where \( I_{1p} \) and \( I_{2p} \) are pixel intensities.
+     $$\text{Distance}(I_1, I_2) = \sum |I_{1p} - I_{2p}|$$,  
+     where $I_{1p}$ and $I_{2p}$ are pixel intensities.
 
 3. **Determine Nearest Neighbors**:
    - Find the 3 closest images (k = 3) by calculating distances.
