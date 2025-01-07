@@ -157,4 +157,15 @@
    - Based on the majority class of the nearest neighbors, the test image is classified.
    - Example:
      - If the nearest neighbors are 2 dogs and 1 cat, the test image is classified as a dog.
+----
+# lec-3 
+![image](https://github.com/user-attachments/assets/4bf936f7-5d9a-4c91-b9e8-5d9d9539741c)
+![image](https://github.com/user-attachments/assets/bf01198e-7e6a-46bd-9d10-24b52432dedf)
+![image](https://github.com/user-attachments/assets/388042bf-814d-4a82-8c2e-ccc81e5db8a6)
+![image](https://github.com/user-attachments/assets/ffbc1e64-7afc-4f0d-afbc-a7d88c175e4e)
+![image](https://github.com/user-attachments/assets/dbe137dc-2601-4109-9c53-61594757cd9d)
+
+
+
+
 
